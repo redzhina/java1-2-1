@@ -1,0 +1,8 @@
+public class Homework {
+    public static void main(String[] args) {
+        long amount = 2_000_000_000;
+        long add_amount = 500_000_000;
+        long total = amount + add_amount;
+        System.out.println(total);
+    }
+}
